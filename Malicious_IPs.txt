@@ -1,6 +1,7 @@
 #Threat Feed Malicious IPs Associated with RansomHub
 #Collected From CISA, Trend Micro, And OTX.Alienware.com
 #
+24.222.222.222 test_comment
 103.253.40.87
 104.226.39.18
 104.238.61.144
