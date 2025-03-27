@@ -1,7 +1,6 @@
 #Threat Feed DNS Domains Associated with RansomHub
 #Collected From CISA, Trend Micro, And OTX.Alienware.com
 #
-*.sentinelone.net
 *.shadowlandschronicles.com
 12301230.co
 40031.co
@@ -50,7 +49,6 @@ regular.ptbaconsulting.com
 round.micha.ai
 samuelelena.co
 seminary.envisionfonddulac.com
-sentinelone.net
 shadowlandschronicles.com
 slot.buyaiphoneonline.com
 smthwentwrong.com
